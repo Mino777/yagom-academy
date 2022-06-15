@@ -20,7 +20,7 @@
 
 - 6기 선배 리뷰어 활동
 
-| 프로젝트명 | STEP1 | STEP2 | 
+| 📚프로젝트 | STEP1 | STEP2 | 
 | :-: | :-: | :-: |
 |숫자게임|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/103)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/115)|
 |묵찌빠게임|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/136)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/146)|
